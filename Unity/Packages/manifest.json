@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "com.unity.xr.arfoundation": "file:com.unity.xr.arfoundation",
+    "com.unity.editorcoroutines": "file:com.unity.editorcoroutines",
+    "com.unity.inputsystem": "file:com.unity.inputsystem",
+    "com.unity.modules.uielements": "1.0.0",
+    "com.unity.xr.core-utils": "file:com.unity.xr.core-utils",
+    "com.unity.modules.xr": "1.0.0",
+    "com.unity.xr.management": "file:com.unity.xr.management",
+    "com.unity.modules.subsystems": "1.0.0",
+    "com.unity.xr.legacyinputhelpers": "file:com.unity.xr.legacyinputhelpers",
+    "com.unity.modules.vr": "1.0.0",
+    "com.unity.ugui": "file:com.unity.ugui",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.mathematics": "file:com.unity.mathematics",
+    "com.unity.modules.particlesystem": "1.0.0",
+    "com.unity.modules.unityanalytics": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.xr.arcore": "file:com.unity.xr.arcore",
+    "com.unity.modules.androidjni": "1.0.0",
+    "com.unity.modules.imageconversion": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.easyar.sense": "file:com.easyar.sense-4003.1.1+5322.52c2012fb.tgz"
+  }
+}

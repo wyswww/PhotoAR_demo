@@ -1,0 +1,24 @@
+{
+    "engine": "EasyAR Surface Tracking",
+    "session": "Running",
+    "status": "Photo ready.",
+    "cameraFrames": 753,
+    "found": 1,
+    "lost": 0,
+    "vertices": 6464,
+    "tracked": true,
+    "modelVisible": true,
+    "rotationRunning": false,
+    "modelActive": true,
+    "rotationSpeed": 60.0,
+    "cameraPosition": {
+        "x": 0.26334863901138308,
+        "y": 0.2656794488430023,
+        "z": -0.3880394697189331
+    },
+    "rotation": {
+        "x": 0.0,
+        "y": 341.80474853515627,
+        "z": 0.0
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "arState": "Ready",
+    "reason": "None",
+    "loader": "ARCoreLoader",
+    "arcoreProbe": "SUPPORTED_INSTALLED; com.google.ar.core.exceptions.UnavailableDeviceNotCompatibleException: null",
+    "status": "Model loaded. Rotating preview; choose placement.",
+    "planes": 0,
+    "cameraFrames": 0,
+    "vertices": 6464,
+    "cameraPermission": true,
+    "modelLoaded": true,
+    "cameraRunning": false,
+    "sessionRunning": false,
+    "inputRunning": false,
+    "meshVisible": true,
+    "selectedPlane": "",
+    "visibleArea": 0.0,
+    "modelRotation": {
+        "x": 0.0,
+        "y": 69.07239532470703,
+        "z": 0.0
+    }
+}

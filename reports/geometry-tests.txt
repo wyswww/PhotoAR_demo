@@ -1,0 +1,14 @@
+PASS polygon area
+PASS centroid
+PASS clockwise area
+PASS clockwise centroid
+PASS viewport clipping
+PASS offscreen rejection
+PASS empty polygon
+PASS degenerate rejection
+PASS OBJ topology and negative indices
+PASS Z-up coordinate conversion
+PASS OBJ vertex colors
+PASS invalid face rejected
+PASS real TripoSR mesh parsing
+Mesh: 10252 vertices, 20420 triangles

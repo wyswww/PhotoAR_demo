@@ -1,0 +1,1 @@
+PASS: geometry, mesh, rotation, anchor immobility, projected plane selection

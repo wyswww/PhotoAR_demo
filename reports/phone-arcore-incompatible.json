@@ -1,0 +1,15 @@
+{
+    "arState": "CheckingAvailability",
+    "reason": "None",
+    "loader": "ARCoreLoader",
+    "arcoreProbe": "SUPPORTED_INSTALLED; com.google.ar.core.exceptions.UnavailableDeviceNotCompatibleException: null",
+    "planes": 0,
+    "cameraFrames": 0,
+    "cameraPermission": true,
+    "modelLoaded": false,
+    "cameraRunning": true,
+    "sessionRunning": false,
+    "inputRunning": true,
+    "selectedPlane": "",
+    "visibleArea": 0.0
+}

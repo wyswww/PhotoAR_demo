@@ -1,0 +1,8 @@
+Unity/Library/
+Unity/Temp/
+Unity/Logs/
+Unity/obj/
+backend/data/
+**/__pycache__/
+builds/
+Unity/Assets/PhotoAR/LocalSecrets/

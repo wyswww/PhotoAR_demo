@@ -1,0 +1,21 @@
+{
+    "engine": "EasyAR Surface Tracking",
+    "session": "Running",
+    "status": "Surface AR test: model rotates when target is tracked. No plane detection.",
+    "cameraFrames": 527,
+    "found": 1,
+    "lost": 0,
+    "vertices": 6464,
+    "tracked": true,
+    "modelVisible": false,
+    "cameraPosition": {
+        "x": -13.140644073486329,
+        "y": -23.3427791595459,
+        "z": 43.224971771240237
+    },
+    "rotation": {
+        "x": 0.0,
+        "y": 167.65997314453126,
+        "z": 0.0
+    }
+}
